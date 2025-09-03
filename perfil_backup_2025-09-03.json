@@ -1,0 +1,27 @@
+{
+  "profile": {
+    "name": "Rondinele Vilhena",
+    "tagline": "Ninguém solta a mão de ninguém",
+    "bio": "Profissional apaixonado por Belford Roxo e a se conectar as pessoas e criar oportunidades. Acredito no poder da colaboração e na força que vem da união.",
+    "nameFont": "montserrat",
+    "taglineFont": "montserrat",
+    "links": [
+      {
+        "name": "Instagram",
+        "url": "https://www.instagram.com/rondinelevilhena/",
+        "icon": "fab fa-instagram"
+      },
+      {
+        "name": "Facebook",
+        "url": "https://www.facebook.com/rondinele.vilhenarv/",
+        "icon": "fab fa-facebook-f"
+      }
+    ]
+  },
+  "login": {
+    "username": "admin",
+    "password": "123456"
+  },
+  "exportDate": "2025-09-03T23:31:36.892Z",
+  "version": "1.0"
+}
